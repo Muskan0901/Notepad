@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    
+}
+
+.body {
+    background-color: lightblue;
+}
+
+.marginClass{
+    margin:10px;
+}
+.marginClass .mb-3{
+    margin: 20px;
+}
+
+.form-control{
+    width:100%;
+   
+}
+textarea{
+    border:none;
+    border-radius: 2px;
+}
+.btn{
+    height: 40px;
+    width:49%;
+    border:none;
+    border-radius: 2px;
+    display:inline-block;
+}
